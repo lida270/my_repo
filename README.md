@@ -1,1 +1,1 @@
-# private_my_repo
+# my_repo
